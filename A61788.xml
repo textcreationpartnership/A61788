@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strange news from Virginia being a full and true account of the life and death of Nathanael Bacon, Esquire, who was the only cause and original of all the late troubles in that country : with a full relation of all the accidents which have happened in the late war there between the Christians and Indians.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61788</idno>
+            <idno type="STC">Wing S5911</idno>
+            <idno type="STC">ESTC R15247</idno>
+            <idno type="EEBO-CITATION">13593543</idno>
+            <idno type="OCLC">ocm 13593543</idno>
+            <idno type="VID">100695</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61788)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100695)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 802:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strange news from Virginia being a full and true account of the life and death of Nathanael Bacon, Esquire, who was the only cause and original of all the late troubles in that country : with a full relation of all the accidents which have happened in the late war there between the Christians and Indians.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Harris ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bacon, Nathaniel, 1648-1676.</term>
+               <term>Bacon's Rebellion, 1676 --  Early works to 1800.</term>
+               <term>Virginia --  History --  Colonial period, ca. 1600-1775.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100695:1"/>
+            <pb facs="tcp:100695:1"/>
+            <p>STRANGE NEWS FROM VIRGINIA; Being a full and true ACCOUNT OF THE LIFE and DEATH OF <hi>Nathanael Bacon</hi> Eſquire, Who was the only Cauſe and Original of all the late Troubles in that COUNTRY.</p>
+            <p>With a full Relation of all the Accidents which have happened in the late War there between the Chriſtians and Indians.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Harris,</hi> next door to the Turn-Stile without <hi>Moor-gate.</hi> 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:100695:2"/>
+            <head>Strange News from <hi>Virginia,</hi> being a full and true account of the Life and Death of <hi>Nathanael Bacon</hi> Eſqiure, who was the only Cauſe and Original of all the late Trou<g ref="char:EOLhyphen"/>bles in that Country.</head>
+            <p>THERE is no Nation this day under the copes of Hea<g ref="char:EOLhyphen"/>ven can ſo experimentally ſpeak the ſad Effects of men of great Parts being reduc't to neceſſity, as <hi>England;</hi> but not to rake up the notorious miſde<g ref="char:EOLhyphen"/>meanours of the dead, I ſhall endeavour to prevent the ſad ef<g ref="char:EOLhyphen"/>fects of ſo deplorable a Cauſe, by giving you an account of the remarkable Life and Death of this Gentleman of whom I am about to diſcourſe. And becauſe when a man has once ingag'd himſelf in an ill action, all men are ready to heap an innumera<g ref="char:EOLhyphen"/>ble aſperſions upon him, of which he is no ways guilty, I ſhall be ſo juſt in the Hiſtory of his Life as not to rob him of thoſe Commendations which his Birth and Acquiſitions claim as due, and ſo kind both to Loyalty and the wholſom conſtituted Laws of our Kingdom, as not to ſmother any thing which would render him to blame.</p>
+            <p>This Gentleman who has of late becconed the attention of all men of underſtanding who are any ways deſirous of Novelty, or care what becomes of any part of the World beſides that themſelves live in, had the honour to be deſcended of an An<g ref="char:EOLhyphen"/>cient and Honourable Family, his Name <hi>Nathanael Bacon,</hi> to which to the long known Title of Gentleman, by his long ſtudy in the Inns of Court he has ſince added that of Eſquire. He was the Son of Mr. <hi>Thomas Bacon</hi> of an ancient Seat known by the denomination of <hi>Freeſtone-Hall</hi> in the County of <hi>Suffolk,</hi> a Gentleman of known loyalty and ability. His Father as he was
+<pb n="3" facs="tcp:100695:2"/>able ſo he was willing to allow this his Son a very Gentile Com<g ref="char:EOLhyphen"/>petency to ſubſiſt upon, but he as it proved having a Soul too large for that allowance, could not contain himſelf within bounds; which his careful Father perceiving, and alſo that he had a mind to Travel (having ſeen divers parts of the World before) conſented to his inclination of going to <hi>Virginia,</hi> and accommodated him with a Stock for that purpoſe, to the value of 1800 <hi>l. Starling,</hi> as I am credibly informed by a Merchant of very good worth, who is now in this City, and had the for<g ref="char:EOLhyphen"/>tune to carry him thither.</p>
+            <p>He began his Voyage thitherwards about Three years ſince, and lived for about a years ſpace in that Continent in very good repute, his extraordinary parts like a Letter of recommendation rendring him acceptable in all mens company, whilſt his conſi<g ref="char:EOLhyphen"/>derable Concerns in that place were able to bear him out in the beſt of Society. Theſe Accompliſhments of mind and fortune rendred him ſo remarkable, that the worthy Governour of that Continent thought it requiſite to take him into his Privy Council.</p>
+            <p>That Plantation which he choſe to ſettle in is generally known by the name of <hi>Curles,</hi> ſituate in the upper part of <hi>James</hi> River, and the time of his Revolt was not till the beginning of <hi>March</hi> 1675/6. At which time the <hi>Suſquo-hannan Indians</hi> (a known Ene<g ref="char:EOLhyphen"/>my to that Country) having made an Inſurrection, and kild di<g ref="char:EOLhyphen"/>vers of the <hi>Engliſh,</hi> amongſt whom it was his fortune to have a Servant ſlain; in revenge of whoſe death, and other dammages he received from thoſe turbulent <hi>Suſquohanians,</hi> without the Governour's conſent he furiouſly took up Arms againſt them, and was ſo fortunate as to put them to flight, but not content therewith; the aforeſaid <hi>Governour</hi> hearing of his eager purſuit after the vanquiſht <hi>Indians,</hi> ſent out a ſelect Company of Soul<g ref="char:EOLhyphen"/>diers to command him to deſiſt; but he inſtead of liſtning there<g ref="char:EOLhyphen"/>unto, perſiſted in his Revenge, and ſent to the <hi>Governour</hi> to intreat his Commiſſion, that he might more chearfully proſe<g ref="char:EOLhyphen"/>cute his deſign; which being denyed him by the Meſſenger he
+<pb n="4" facs="tcp:100695:3"/>ſent for that purpoſe, he notwithſtanding continued to make head with his own Servants, and other <hi>Engliſh</hi> then reſident in <hi>Curles</hi> againſt them. In this interim the People of <hi>Henrica</hi> had returned him Burgeſs of their County; and he in order thereunto took his own Sloop and came down towards <hi>James Town,</hi> conducted by thirty odd Souldiers, with part of which he came aſhore to Mr. <hi>Laurences</hi> Houſe, to underſtand whether he might come in with ſafety or not, but being diſcovered by one Parſon <hi>Clough,</hi> and alſo it being perceived that he had lined the Buſhes of the ſaid Town with Souldiers, the Governour thereupon ordered an allarm to be beaten through the whole Town, which took ſo hot, that <hi>Bacon</hi> thinking himſelf not ſe<g ref="char:EOLhyphen"/>cure whilſt he remained there within reach of their Fort, im<g ref="char:EOLhyphen"/>mediately commanded his men aboard, and tow'd his Sloop up the River; which the Governour perceiving, ordered the Ships which lay at <hi>Sandy-point</hi> to purſue and take him; and they by the induſtry of their Commanders ſucceeded ſo well in the at<g ref="char:EOLhyphen"/>tempt, that they preſently ſtopt his paſſage; ſo that Mr. <hi>Bacon</hi> finding himſelf purſued both before and behind, after ſome ca<g ref="char:EOLhyphen"/>pitulations, quietly ſurrendred himſelf Priſoner to the Gover<g ref="char:EOLhyphen"/>nours Commiſſioners, to the great ſatisfaction of all his Friends; which action of his was ſo obliging to the Governour, that he granted him his liberty immediately upon Paroll, without con<g ref="char:EOLhyphen"/>fining him either to Priſon or Chamber, and the next day, af<g ref="char:EOLhyphen"/>ter ſome private diſcourſe paſſed betwixt the Governour, the Privy Council, and himſelf, he was amply reſtored to all his former Honours and Dignities, and a Commiſſion partly pro<g ref="char:EOLhyphen"/>miſed him to be General againſt the <hi>Indian</hi> Army; but upon farther enquiry into his Affairs it was not thought fit to be grant<g ref="char:EOLhyphen"/>ed him; whereat his ambitious mind ſeem'd mightily to be diſpleas'd; inſomuch that he gave out, that it was his intenti<g ref="char:EOLhyphen"/>on to ſell his whole concerns in <hi>Virginia,</hi> and to go with his whole Family to live either in <hi>Merry-land</hi> or the <hi>South,</hi> becauſe he would avoid (as he ſaid) the ſcandal of being accounted a factious perſon there. But this reſolution it ſeems was but a
+<pb n="5" facs="tcp:100695:3"/>pretence, for afterwards he headed the ſame-Runnagado <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> that he formerly found ready to undertake and go ſharers with him in any of his Rebellions, and adding to them the aſ<g ref="char:EOLhyphen"/>ſiſtance of his own Slaves and Servants, headed them ſo far till they toucht at the <hi>Occonegies</hi> Town, where he was treated very civilly, and by the Inhabitants informed where ſome of the <hi>Suſquohanno's</hi> were inforted, whom preſently he aſſails, and after he had vanquiſhed them, ſlew about ſeventy of them in their Fort: But as he returned back to the <hi>Occoneges,</hi> he found they had fortified themſelves with divers more <hi>Indians</hi> than they had at his firſt arrival; wherefore he deſired Hoſtages of them for their good behaviour, whilſt he and his followers lay with<g ref="char:EOLhyphen"/>in command of their Fort. But thoſe treacherous <hi>Indians</hi> grown confident by reaſon of their late recruit, returned him this An<g ref="char:EOLhyphen"/>ſwer, <hi>That their Guns were the only Hoſtages he was like to have of them, and if he would have them he muſt fetch them.</hi> Which was no ſooner ſpoke, but the <hi>Indians</hi> ſallied out of the Fort and ſhot one of his Sentinels, whereupon he charged them ſo fierce<g ref="char:EOLhyphen"/>ly, that the Fight continued not only all that day, but the next alſo, till the approach of the Evening, at which time finding his men grow faint for want of Proviſion, he laid hold of the opportunity, being befriended by a gloomy night, and ſo made an honourable retreat homewards.</p>
+            <p>
+               <hi>Howbeit</hi> we may judge what reſpect he had gain'd in <hi>James-Town</hi> by this ſubſequent tranſaction. When he was firſt brought hither it was frequently reported among the Com<g ref="char:EOLhyphen"/>monalty that he was kept cloſe Priſoner, which report cau<g ref="char:EOLhyphen"/>ſed the people of that Town, thoſe of <hi>Charles-City, Henrico,</hi> and <hi>New-Kent</hi> Countries, being in all about the Number of eight hundred, or a thouſand, to riſe and march thitherwards in or<g ref="char:EOLhyphen"/>der to his reſcue; whereupon the Governor was forced to de<g ref="char:EOLhyphen"/>ſire Mr. <hi>Bacon</hi> to go himſelf in Perſon, and by his open appea<g ref="char:EOLhyphen"/>rance quiet the people.</p>
+            <p>This being paſt, Mr. <hi>Bacon,</hi> about the 25th. of <hi>June</hi> laſt, diſ<g ref="char:EOLhyphen"/>ſatisfied that he could not have a Commiſſion granted him to
+<pb n="6" facs="tcp:100695:4"/>go againſt the <hi>Indians,</hi> in the night time departed the Town unknown to any body, and about a week after got together between four and five hundred men of <hi>New-Kent</hi> County, with whom he marched to <hi>James-Town,</hi> and drew up in order before the Houſe of State; and there peremptorily demanded of the Governor, <hi>Council</hi> and <hi>Burgeſſes</hi> (there then collected) a Com<g ref="char:EOLhyphen"/>miſſion to go againſt the <hi>Indians,</hi> which if they ſhould refuſe to grant him, he told them that neither he nor ne're a man in his Company would depart from their Doors till he had ob<g ref="char:EOLhyphen"/>tained his requeſt; whereupon to prevent farther danger in ſo great an exigence, the Council and Burgeſſes by much intrea<g ref="char:EOLhyphen"/>ty obtain'd him a Commiſſion Signed by the <hi>Governor,</hi> an Act for one thouſand men to be Liſted under his command to go againſt the <hi>Indians,</hi> to whom the ſame pay was to be grant<g ref="char:EOLhyphen"/>ed as was allowed to them who went againſt the <hi>Fort.</hi> But <hi>Bacon</hi> was not ſatisfied with this, but afterwards earneſtly im<g ref="char:EOLhyphen"/>portuned, and at length obtained of the <hi>Houſe,</hi> to paſs an Act of Indemnity to all Perſons who had ſided with him, and alſo Letters of recommendations from the Governor to his Majeſty in his behalf; and moreover cauſed Collonel <hi>Claybourn</hi> and his Son Captain <hi>Claybourn,</hi> Lieutenant Collonel <hi>Weſt,</hi> and Lieu<g ref="char:EOLhyphen"/>tenant Collonel <hi>Hill,</hi> and many others, to be degraded for ever bearing any Office, whether it were Military or Civil.</p>
+            <p>Having obtained theſe large Civilities of the <hi>Governor, &amp;c.</hi> one would have thought that if the Principles of honeſty would not have obliged him to peace and loyalty, thoſe of gratitude ſhould. But, alas, when men have been once fluſht or entred with Vice, how hard is it for them to leave it, eſpecially if it tends towards ambition or greatneſs, which is the general luſt of a large Soul, and the common error of vaſt parts, which fix their Eyes ſo upon the lure of greatneſs, that they have no time left them to conſider by what indirect and unlawful means they muſt (if ever) attain it.</p>
+            <p>This certainly was Mr. <hi>Bacon</hi>'s Crime, who after he had once lanched into Rebellion, nay, and upon ſubmiſſion had been par<g ref="char:EOLhyphen"/>doned
+<pb n="7" facs="tcp:100695:4"/>for it, and alſo reſtored, as if he had committed no ſuch hainous offence, to his former honour and dignities (which were conſiderable enough to content any reaſonable mind) yet for all this he could not forbear wading into his former miſ<g ref="char:EOLhyphen"/>demeanors, and continued his oppoſition againſt that prudent and eſtabliſhed Government, ordered by his Majeſty of <hi>Great Brittain</hi> to be duly obſerved in that Continent.</p>
+            <p>In fine, he continued (I cannot ſay properly in the Fields, but) in the Woods with a conſiderable Army all laſt Summer, and maintain'd ſeveral Bruſhes with the Governors Party: ſome<g ref="char:EOLhyphen"/>time routing them, and burning all before him, to the great damage of many of his Majeſties loyal Subjects there reſident; ſometimes he and his Rebels were beaten by the Governor, <hi>&amp;c.</hi> and forc't to run for ſhelter amongſt the Woods and Swomps. In which lamentable condition that unhappy Continent has re<g ref="char:EOLhyphen"/>main'd for the ſpace of almoſt a Twelve-month, every one there<g ref="char:EOLhyphen"/>in that were able being forc't to take up Arms for ſecurity of their own lives, and no one reckoning their Goods, Wives, or Children to be their own, ſince they were ſo dangerouſly expos'd to the doubtful Accidents of an uncertain War.</p>
+            <p>But the indulgent Heavens, who are alone able to compute what meaſure of puniſhments are adequate or fit for the ſins or tranſgreſſions of a Nation, has in its great mercy thought fit to put a ſtop, at leaſt, if not a total period and concluſion to theſe <hi>Virginian</hi> troubles, by the death of this <hi>Nat. Bacon,</hi> the great Moleſtor of the quiet of that miſerable Nation; ſo that now we who are here in <hi>England,</hi> and have any Relations or Correſpon<g ref="char:EOLhyphen"/>dence with any of the Inhabitants of that Continent, may by the arrival of the next Ships from that Coaſt expect to hear that they are freed from all their dangers, quitted of all their fears, and in great hopes and expectation to live quietly under their own Vines, and enjoy the benefit of their commendable labours.</p>
+            <p>I know it is by ſome reported that this Mr. <hi>Bacon</hi> was a very hard drinker, and that he dyed by inbibing, or taking in two much Brandy. But I am informed by thoſe who are Perſons of
+<pb n="8" facs="tcp:100695:5"/>undoubted Reputation, and had the happineſs to ſee the ſame Letter which gave his Majeſty an account of his death, that there was no ſuch thing therein mentioned: he was certainly a Perſon indued with great natural parts, which notwitſtſtand<g ref="char:EOLhyphen"/>ing his juvenile extravagances he had adorned with many ela<g ref="char:EOLhyphen"/>borate acquiſitions, and by the help of learning and ſtudy knew how to manage them to a Miracle, it being the general vogue of all that knew him, that he uſually ſpoke as much ſenſe in as few words, and delivered that ſenſe as opportunely as any they ever kept company withal: Wherefore as I am my ſelf a Lover of Ingenuity, though an abhorrer of diſturbance or Rebellion, I think fit ſince Providence was pleaſed to let him dye a Natural death in his Bed, not to aſperſe him with ſaying he kill'd him<g ref="char:EOLhyphen"/>ſelf with drinking.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
